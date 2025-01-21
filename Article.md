@@ -13,7 +13,7 @@ Ollama stands out for several reasons that make it an ideal choice for developer
 5.  Cross-Platform Support : Ollama supports various operating systems, including macOS, Linux, and Windows, making it highly versatile for different user environments.
 6.  Collaboration-Friendly : Ollama’s architecture supports team collaboration, version control, and model sharing, making it a great choice for multi-developer environments.
 
-# World Foundation Models
+
 
 ![](https://raw.githubusercontent.com/Ahsankabir-AI/Ahsankabir-AI/main/image/World%20Foundation%20Models%20ushering%20a%20new%20era%20in%20Artificial%20Intelligence.png)
 
