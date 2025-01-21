@@ -65,13 +65,33 @@ PPTL, Dhaka (Sep 2001 – Jan 2006)
 
 Explore my insights and thought leadership in the field of artificial intelligence:  
 
-1. **[World Foundation Models (WFMs): Ushering a New Era in Artificial Intelligence](https://www.linkedin.com/pulse/world-foundation-models-wfms-ushering-new-era-artificial-ahsan-kabir-vtjqc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)**  
-   - A comprehensive exploration of WFMs and their transformative potential in shaping the future of AI.  
+1. [World Foundation Models (WFMs): Ushering a New Era in Artificial Intelligence](https://www.linkedin.com/pulse/world-foundation-models-wfms-ushering-new-era-artificial-ahsan-kabir-vtjqc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
+   - A deep dive into World Foundation Models and their revolutionary impact on AI.  
 
-2. **[Generative AI in 2025: Insights from Academia and Industry Innovations](https://www.linkedin.com/pulse/generative-ai-2025-insights-from-academia-industry-ahsan-kabir-oosfc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)**  
-   - Discussing upcoming breakthroughs and applications of Generative AI with insights from academic and industry leaders.  
+2. [Custom AI Solutions: Transforming Document Management with Intelligent Chat](https://www.linkedin.com/pulse/custom-ai-solutions-transforming-document-management-chat-ahsan-kabir-mh7wc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
+   - Exploring the power of custom AI solutions in automating document management and intelligent chat integration.  
 
-3. **[GENAI: A Deep Dive into the Future of Artificial Intelligence](https://www.linkedin.com/pulse/genai-deep-dive-future-artificial-intelligence-ahsan-kabir-c7koc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)**  
+3. [Harnessing Local AI Deployment: Unlocking and Streamlining the Potential of Ollama and LLMs](https://www.linkedin.com/pulse/harnessing-local-ai-deployment-unlocking-streamlining-ahsan-kabir-vliac/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
+   - How local AI deployment technologies such as Ollama and LLMs can revolutionize AI applications.  
+
+4. [Generative AI in 2025: Insights from Academia and Industry Innovations](https://www.linkedin.com/pulse/generative-ai-2025-insights-from-academia-industry-ahsan-kabir-oosfc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
+   - A look ahead at the future of Generative AI and its impact on academia and industries.  
+
+5. [GENAI: A Deep Dive into the Future of Artificial Intelligence](https://www.linkedin.com/pulse/genai-deep-dive-future-artificial-intelligence-ahsan-kabir-c7koc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
+   - An extensive analysis of the emerging trends and future directions in Generative AI (GENAI).  
+
+6. [Unleashing the Power of Meta Llama 3.3: Top Features Unveiled](https://www.linkedin.com/pulse/unleashing-power-meta-llama-33-top-features-unveiled-ahsan-kabir-azasc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
+   - A breakdown of the top features of Meta Llama 3.3 and its applications in AI.  
+
+7. [Vector Databases Demystified: The What and Why Explained](https://www.linkedin.com/pulse/vector-databases-demystified-what-why-explained-ahsan-kabir-ztztc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
+   - A detailed guide to understanding the role of vector databases in AI systems.  
+
+8. [Pinecone: Transforming Data Management in the AI Revolution](https://www.linkedin.com/pulse/pinecone-transforming-data-management-ai-revolution-ahsan-kabir-tok3c/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
+   - Discussing Pinecone’s impact on transforming how data is managed in AI-driven solutions.  
+
+9. [Exploring OpenAI’s Breakthroughs in Artificial Intelligence](https://www.linkedin.com/pulse/exploring-openais-breakthroughs-artificial-part-1-ahsan-kabir-to6ic/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
+   - A comprehensive review of OpenAI's breakthroughs and their potential to shape the future of AI.  
+
      
 
 ## 🌟 Tech community Contribution: 
