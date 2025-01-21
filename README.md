@@ -92,7 +92,7 @@ Explore my insights and thought leadership in the field of artificial intelligen
 9. [Exploring OpenAI’s Breakthroughs in Artificial Intelligence](https://www.linkedin.com/pulse/exploring-openais-breakthroughs-artificial-part-1-ahsan-kabir-to6ic/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D)  
    - A comprehensive review of OpenAI's breakthroughs and their potential to shape the future of AI.  
 
-   [More](https://github.com/Ahsankabir-AI/Article.md) 
+   [More](https://github.com/Ahsankabir-AI/Ahsankabir-AI/blob/main/Article.md) 
 
 ## 🌟 Tech community Contribution: 
    
