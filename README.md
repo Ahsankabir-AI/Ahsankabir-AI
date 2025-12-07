@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahsan Kabir  
 
-🎓 Assistant Professor | 💻 AI Entrepreneur | 🏆 10x Microsoft MVP 
+🎓 Assistant Professor | 💻 AI Entrepreneur | 🏆 10x Microsoft MVP https://github.com/Ahsankabir-AI/Ahsankabir-AI/blob/main/README.md
 
 📍 Location: Moghbazar, Dhaka, Bangladesh  
 📧 Email: [inbox.kabir@hotmail.com](mailto:inbox.kabir@hotmail.com)  
@@ -60,6 +60,11 @@ PPTL, Dhaka (Sep 2001 – Jan 2006)
 - Accounting and HR Systems  
 - Business Intelligence Solutions  
 
+## 📚 Research Paper:
+
+1. [Adversarial Reflection-Optimized Preference (AROP): Autonomous Alignment of Large Language Models via Self-Generated Max-Margin Supervision](
+[https://www.linkedin.com/pulse/world-foundation-models-wfms-ushering-new-era-artificial-ahsan-kabir-vtjqc/?trackingId=6uMrCtSHRfOPsa2%2ByWl4Cg%3D%3D](https://github.com/AhsanKabir-git/my-thesis/wiki#adversarial-reflection-optimized-preference-arop-autonomous-alignment-of-large-language-models-via-self-generated-max-margin-supervision)
+)  
 
 ## 📚 Publications & Article:
 
